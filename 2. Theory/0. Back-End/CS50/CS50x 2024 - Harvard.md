@@ -1,0 +1,3 @@
+- [[Semana 2 - Lecture 1 - C]]
+- [[Semana 3 - Lecture 2 - Arrays]]
+- 

@@ -1,0 +1,76 @@
+{
+  "callouts": {
+    "custom": [
+      "fact",
+      "quests",
+      "performance-checker"
+    ],
+    "settings": {
+      "fact": [
+        {
+          "changes": {
+            "icon": "lucide-bot",
+            "color": "82, 139, 212"
+          }
+        }
+      ],
+      "abstract": [
+        {
+          "changes": {
+            "color": "208, 181, 48"
+          }
+        }
+      ],
+      "multi-column": [
+        {
+          "changes": {
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "summary": [
+        {
+          "changes": {
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "quests": [
+        {
+          "changes": {
+            "icon": "lucide-award",
+            "color": "252, 210, 95"
+          }
+        }
+      ],
+      "weekly-review": [
+        {
+          "changes": {
+            "color": "118, 195, 254"
+          }
+        }
+      ],
+      "ideas": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "255, 148, 205"
+          }
+        }
+      ],
+      "performance-checker": [
+        {
+          "changes": {
+            "icon": "lucide-check-circle",
+            "color": "122, 255, 131"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

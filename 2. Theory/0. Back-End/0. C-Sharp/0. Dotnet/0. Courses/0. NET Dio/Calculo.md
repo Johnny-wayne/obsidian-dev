@@ -1,0 +1,93 @@
+
+- Dados e listas
+	- 8 atividades
+		- Propriedades Construtores - 3h
+		- Manipulando valores em C# - 2h
+		- Exceções e Coleções com C# - 2h
+		- Tuplas, operador Ternário e Desconstrução de um objeto com C# - 2h
+		- Nuget, serializar e atributos no C# - 2h
+		- Construindo um sistema de hospedagem - 2h
+		- Desafios de código: Aperfeições sua lógica e pensamento - 1h
+		- Calculando Juros com C# - 1h
+		- Total : 15
+- POO com C#
+	- 4 atividades
+		- Abstração e Encapsulamento - 2h
+		- Herança e Polimorfismo - 2h
+		- Classes abstratas e Interfaces com C# - 3h
+		- Des: Criando um sistema e Abstraindo um Celular com POO em C# - 2h
+		- total 9
+- Introdução a Banco de Dados
+	- 5 atividades
+		- Introdução Banco de Dados - 2h
+		- SQL server - tabelas e tipos de dados - 3h
+		- SQL Server - manipulando dados - 2h
+		- MongoDB e NOSQL - 3h
+		- Des: Montando Consultas Relacionais no SQL Server - 2h
+		- 12h
+- APIs com .NET C#
+	- 7 atividades
+		- Introdução a APIs - 3h
+		- Entity Framework em C# - 3h
+		- Des: Construindo um Sistema Agendamento de Tarefas -  1h
+		- Conhecendo e Instalando o Docker - 1h
+		- Primeiros passos com Docker - 1h
+		- ASP.NET Minimals API - 5h
+		- Des: Calculando Ativos com C# - 1h
+		- 15h
+- Desenvolvimento Orientado a Testes
+	- 4 atividades
+		- Testes Unitários com C#
+		- Implementando Validações de Testes Unitários com C# - 1h
+		- Configuração da Suíte de Testes e Aplicando Testes Integrados em .NET - 3h
+		- Des: Blindando seu Código com TDD e Testes unitários usando .NET Core - 1h
+		- Total 5h
+- Introdução ao Front-End com React
+	- 7 atividades
+		- Configuração de Ambiente React - 1h
+		- Páginas web com html - 2h
+		- Estillizando páginas com css - 1h
+		- Tornando páginas web interativas com JavaScript - 2h
+		- Entendendo o DOM - 1h
+		- Primeiros passos na biblioteca React - 1h
+		- des: Criando uma calculadora com React - 1h
+		- 9h
+- Conceitos básicos de React
+	- 7 atividades
+		- Criando projetos React - 1h
+		- Conceitos Fundamentais para React - 1h
+		- Convenções e Qualidade de Código react - 1h
+		- Organizando Aplicações React - 2h
+		- Manipulando Arrays no JavaScript com Map, Filter e Reduce - 2h
+		- Des: Criando uma wiki de Repositórios do GitHub com React - 1h
+		- Des: Calculando rendimentos com JavaScript - 1h
+		- 9h
+- Gerenciando Componentes React
+	- 5 atividades
+		- Estilização com Styled-Components - 2h
+		- Trabalhando com Hooks Básicos - 1h
+		- Trabalhando com Formulários no React - 1h
+		- des: Desenvolvendo a Tela de Cadastro da Plataforma Dio com React - 1h
+		- des: Explorando portifólio de Investimento com JavaScript - 1h
+		- 6h
+- Criando Front-end com Next e Typescript
+	- 6 atividades
+		- Fundamentos do Typescript - 1h
+		- Convertendo projetos React de JavaScript para Typescript - 1h
+		- Implementando uma tela de Login com validação usando Typescript - 1h
+		- Introdução ao NextJs - 1h
+		- des: Criando o seu blog Pessoal com NextJs - 1h
+		- des: calculando métricas de Investimento com JavaScript - 1h
+		- 6h
+- Introdução a Cloud com Azure
+	- 9 atividades
+		- Introdução a Computação em Nuvem - 2h
+		- Microsoft Azure - Localizando seriços por categoria - 1h
+		- Benefícios da computação em nuvem - 2h
+		- Criando máquinas virtuais na Azure - 1h
+		- Tipos de Serviço de Nuvem - 1h
+		- Configurando uma instância de Bancos de Dados na Azure - 1h
+		- Configuração e Deploy na nuvem Microsoft Azure Cloud - 2h
+		- Introdução a Conceitos de Mensageria e Service Bus com Azure - 2h
+		- Avalie este Bootcamp - 1h
+		- 13h

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b1a6406c3794a621","type":"text","text":"## Transitório","x":-117,"y":207,"width":250,"height":60,"color":"3"},
+		{"id":"c3b862c2cd7724a9","type":"text","text":"## Manutenção","x":271,"y":205,"width":250,"height":60,"color":"3"},
+		{"id":"f71980ccfe91057b","type":"text","text":"## Operacional","x":-505,"y":199,"width":250,"height":60,"color":"3"},
+		{"id":"3def5aaa29bf9aaf","type":"text","text":"- Orçamento\n- Usabilidade\n- Eficiência\n- Correção\n- Funcionalidade\n- Confiabilidade\n- Segurança","x":-505,"y":360,"width":250,"height":240,"color":"2"},
+		{"id":"7f4501aae5557c93","type":"text","text":"- Portabilidade\n- Interoperabilidade\n- Reutilização\n- Adaptabilidade","x":-117,"y":360,"width":250,"height":240,"color":"2"},
+		{"id":"0d133c4d3c184fc4","type":"text","text":"- Modularização\n- Manutenbilidade\n- Flexibilidade\n- Escalabilidade","x":271,"y":360,"width":250,"height":240,"color":"2"},
+		{"id":"9fe3cb6f11db5d92","type":"text","text":"# Características do Software","x":-244,"y":-40,"width":505,"height":90,"color":"6"}
+	],
+	"edges":[
+		{"id":"0268e1ac95e8b032","fromNode":"9fe3cb6f11db5d92","fromSide":"bottom","toNode":"b1a6406c3794a621","toSide":"top"},
+		{"id":"0bc139d944c78086","fromNode":"9fe3cb6f11db5d92","fromSide":"bottom","toNode":"c3b862c2cd7724a9","toSide":"top"},
+		{"id":"6311fc676eae58d4","fromNode":"9fe3cb6f11db5d92","fromSide":"bottom","toNode":"f71980ccfe91057b","toSide":"top"},
+		{"id":"e3392ecc060acc79","fromNode":"f71980ccfe91057b","fromSide":"bottom","toNode":"3def5aaa29bf9aaf","toSide":"top"},
+		{"id":"c588372c2e2fb4b6","fromNode":"b1a6406c3794a621","fromSide":"bottom","toNode":"7f4501aae5557c93","toSide":"top"},
+		{"id":"8f5f391026535a45","fromNode":"c3b862c2cd7724a9","fromSide":"bottom","toNode":"0d133c4d3c184fc4","toSide":"top"}
+	]
+}

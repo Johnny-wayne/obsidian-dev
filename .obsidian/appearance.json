@@ -1,0 +1,24 @@
+{
+  "enabledCssSnippets": [
+    "banner",
+    "book-callout",
+    "calendar",
+    "center-img",
+    "contents-callout",
+    "ideas-callout",
+    "info-callout",
+    "kanban",
+    "max-width",
+    "MCL Multi Column",
+    "project-callout",
+    "properties-hide",
+    "short-callout",
+    "table",
+    "tags",
+    "thought-callout",
+    "todo-callout",
+    "weekly-review",
+    "url",
+    "popover"
+  ]
+}

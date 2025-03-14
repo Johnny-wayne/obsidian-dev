@@ -1,0 +1,2 @@
+
+A refatoração **é uma forma disciplinada de reestruturar o código quando pequenas mudanças são feitas nele para melhorar o design**. Um aspecto importante de uma refatoração é que ela melhora o design sem mudar o comportamento do design; uma refatoração não adiciona nem remove funcionalidade.

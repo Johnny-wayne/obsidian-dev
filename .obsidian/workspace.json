@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/0. Dotnet - DIO course.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Dotnet - DIO course"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "097de0cad7ef0c7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a6cc163fea58c6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc8bb890d132c58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b116771551a00634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "casa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1fc9716bdaf75d42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "0769bbdd1d326edb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57bdd0bc77586ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e587aa4c6c0fff9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Theory/2. Data-Science/Dados/Estruturas de dados/Estruturas de dados.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Estruturas de dados"
+            }
+          },
+          {
+            "id": "da00cf167cfd05f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Theory/0. Back-End/0. C-Sharp/0. NET Dio/Módulo 6 - Docker/Pré-requisitos e considerações sobre o laboratório virtual de estudos.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Pré-requisitos e considerações sobre o laboratório virtual de estudos"
+            }
+          },
+          {
+            "id": "ee9ef4d6747a575d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "307430d02a30ad3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Theory/3. DevOps/0. Git/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Git"
+            }
+          },
+          {
+            "id": "fbc2587aad070aaa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Auth DIO.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Calculo.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Faltou.md",
+    "Home.md",
+    "2. Theory/0. Back-End/CS50/Semana 3 - Lecture 2 - Arrays.md",
+    "2. Theory/0. Back-End/CS50/Semana 2 - Lecture 2 - C.md",
+    "2. Theory/0. Back-End/CS50/Semana 2 - Lecture 1 - C.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 2/Tuplas, Operador ternário e Desconstrução de um objeto.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 2/Refatoração.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 2/Questões.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 2/Nuget, Serializar e Atributos no C-Sharp.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 2/Manipulando Valores.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 2/Exceções e Coleções.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 2/2. Constructor.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 2/1. Introdução Propriedades.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/1. NET.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Sintaxe e Identação/Sintaxe e Identação.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Sintaxe e Identação/Explorando a Sintaxe.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Sintaxe e Identação/Convenção propriedades e variáveis.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Sintaxe e Identação/Convenção de escrita de classe.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Sintaxe e Identação/Convenção case.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Estrutura do programa/Tipos de Dados.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Estrutura do programa/Operadores em C-sharp.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Estrutura do programa/Estruturas de Repetição.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Estrutura do programa/Estrutura de um programa e método principal.md",
+    "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet/0. Courses/0. NET Dio/Módulo 1/Começo/Estrutura do programa/Compilador NET e seu funcionamento.md",
+    "Testes",
+    "2. Theory/6. Matemática/Foco em IA/Algebra Linear",
+    "2. Theory/6. Matemática/Foco em IA",
+    "0. backlog/Anexos/Pasted image 20250210172231.png",
+    "2. Theory/2. Data-Science/AI/Machine Learning/Rede Neural.canvas",
+    "2. Theory/4. Cybersecurity/Redes/Protocolos",
+    "2. Theory/4. Cybersecurity/Redes/Protocolos/OSI e TCP.canvas",
+    "2. Theory/5. Generic/types of programming languages.jpeg",
+    "2. Theory/1. Front-End/TypeScript/TypeScript.canvas",
+    "0. backlog/Anexos/Pasted image 20241004120945.png",
+    "0. backlog/Anexos/Pasted image 20241107153142.png",
+    "0. backlog/Anexos/Pasted image 20240929134643.png",
+    "0. backlog/Anexos/Pasted image 20240911161423.png",
+    "0. backlog/Anexos/Pasted image 20240826201911.png",
+    "0. backlog/Anexos/Pasted image 20240731185916.png",
+    "0. backlog/Anexos/Pasted image 20240731185844.png",
+    "0. backlog/Anexos/Captura de tela 2024-09-15 133014.png",
+    "3. Courses",
+    "Sistema em Python.canvas",
+    "0. backlog/Direction/Júnior aprender.canvas",
+    "0. backlog/Direction/General.canvas",
+    "0. backlog/Direction",
+    "organizar e tacar fora/Roadmap.canvas",
+    "0. backlog/Direction/Carreira.canvas",
+    "0. backlog/Direction/Estratégia.canvas",
+    "2. Theory/0. Back-End/CS50",
+    "2. Theory/1. Front-End/Angular/Angular.canvas",
+    "2. Theory/5. Generic/0. Arquitetura de Software",
+    "organizar e tacar fora/Anexos/Conceitos básicos POO.pdf",
+    "2. Theory/2. Data-Science/AI/Anexos IA"
+  ]
+}

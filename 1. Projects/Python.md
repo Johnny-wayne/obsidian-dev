@@ -1,0 +1,13 @@
+
+- Quote Gener
+- Number guessing
+- Dice Simulation
+- YT Downloader
+- Password Manager
+- Mario party
+- Web crawler
+- Email Automation
+- Music Player
+- Face Detection
+- Twitter Clone
+- Twitter Bot

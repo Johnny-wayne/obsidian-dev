@@ -1,0 +1,135 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "kAYMYHg7Fc-pMdb_4VttU",
+      "name": "Angular",
+      "value": "#f03333"
+    },
+    {
+      "id": "4NH_SVDQ5mUU6jGSYoz0F",
+      "name": "JavaScript",
+      "value": "#ffc800"
+    },
+    {
+      "id": "03WoxRTeJFQTIIH0-XKUi",
+      "name": "CSS",
+      "value": "#3f66d9"
+    },
+    {
+      "id": "T1ud7n7VQTGIx48JpJLAt",
+      "name": "TypeScript",
+      "value": "#3cc6e2"
+    },
+    {
+      "id": "dskIqHgTE_dC2SO6o38gu",
+      "name": "DevOps",
+      "value": "#1f80ff"
+    },
+    {
+      "id": "FAFQWVywL4LntUfdr_KuZ",
+      "name": "Cyber",
+      "value": "#ff1f1f"
+    },
+    {
+      "id": "HD94MomMcruWdvUCe9d9L",
+      "name": "Dotnet",
+      "value": "#916cd5"
+    },
+    {
+      "id": "StFF9hkOplUtpwuEGcRgW",
+      "name": "NodeJs",
+      "value": "#9bde6e"
+    },
+    {
+      "id": "9FPo8h2EE_SC4Pai_RLwU",
+      "name": "Data-Science",
+      "value": "#3bbde8"
+    },
+    {
+      "id": "_MKEE3adH_x1Siha8xIXn",
+      "name": "Generic",
+      "value": "#ba26c5"
+    },
+    {
+      "id": "oNXxqb1ukNEjictn4psPy",
+      "name": "Matemática",
+      "value": "#9cf7bc"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "2. Theory/1. Front-End/Angular",
+      "color": "kAYMYHg7Fc-pMdb_4VttU"
+    },
+    {
+      "path": "2. Theory/1. Front-End/JavaScript",
+      "color": "4NH_SVDQ5mUU6jGSYoz0F"
+    },
+    {
+      "path": "2. Theory/1. Front-End/CSS",
+      "color": "03WoxRTeJFQTIIH0-XKUi"
+    },
+    {
+      "path": "2. Theory/1. Front-End/TypeScript",
+      "color": "T1ud7n7VQTGIx48JpJLAt"
+    },
+    {
+      "path": "2. Theory/1. Front-End/JavaScript/JavaScript.md",
+      "color": "4NH_SVDQ5mUU6jGSYoz0F"
+    },
+    {
+      "path": "2. Theory/4. Cybersecurity",
+      "color": "FAFQWVywL4LntUfdr_KuZ"
+    },
+    {
+      "path": "2. Theory/3. DevOps",
+      "color": "dskIqHgTE_dC2SO6o38gu"
+    },
+    {
+      "path": "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet",
+      "color": "HD94MomMcruWdvUCe9d9L"
+    },
+    {
+      "path": "2. Theory/0. Back-End/0. C-Sharp",
+      "color": "HD94MomMcruWdvUCe9d9L"
+    },
+    {
+      "path": "2. Theory/0. Back-End/1. NodeJS",
+      "color": "StFF9hkOplUtpwuEGcRgW"
+    },
+    {
+      "path": "2. Theory/0. Back-End/2. Python",
+      "color": "4NH_SVDQ5mUU6jGSYoz0F"
+    },
+    {
+      "path": "2. Theory/1. Front-End",
+      "color": "4NH_SVDQ5mUU6jGSYoz0F"
+    },
+    {
+      "path": "2. Theory/0. Back-End",
+      "color": "HD94MomMcruWdvUCe9d9L"
+    },
+    {
+      "path": "2. Theory/2. Data-Science",
+      "color": "9FPo8h2EE_SC4Pai_RLwU"
+    },
+    {
+      "path": "2. Theory/5. Generic",
+      "color": "_MKEE3adH_x1Siha8xIXn"
+    },
+    {
+      "path": "2. Theory/6. Matemática/Foco em IA",
+      "color": "9FPo8h2EE_SC4Pai_RLwU"
+    },
+    {
+      "path": "2. Theory/6. Matemática",
+      "color": "oNXxqb1ukNEjictn4psPy"
+    },
+    {
+      "path": "2. Theory/6. Matemática/Foco em IA/Roadmap para IA.md",
+      "color": "9FPo8h2EE_SC4Pai_RLwU"
+    }
+  ]
+}

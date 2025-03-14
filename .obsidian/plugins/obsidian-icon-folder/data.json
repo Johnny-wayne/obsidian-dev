@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBrainCircuit",
+      "LiBrain",
+      "LiDotSquare",
+      "SiDotnet",
+      "SiTypescript"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "2. Theory/0. Back-End/0. C-Sharp": "LiHash",
+  "2. Theory/0. Back-End/0. C-Sharp/0. Dotnet": "LiDotSquare",
+  "2. Theory/0. Back-End/1. NodeJS": "FabNodeJs",
+  "2. Theory/0. Back-End/1. NodeJS/0. Nodemon": "RaHorns",
+  "2. Theory/0. Back-End/2. Python": "FabPython",
+  "2. Theory/1. Front-End/Angular": "FabAngular",
+  "2. Theory/1. Front-End/JavaScript": "FabJs",
+  "2. Theory/1. Front-End/CSS": "FabCss3Alt",
+  "2. Theory/1. Front-End/TypeScript": "SiTypescript",
+  "2. Theory/6. Matemática/Foco em IA": "LiBrain",
+  "2. Theory/6. Matemática/Foco em IA/Roadmap para IA.md": "LiBrain"
+}

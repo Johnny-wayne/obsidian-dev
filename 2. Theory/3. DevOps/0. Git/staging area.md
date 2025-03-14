@@ -1,0 +1,1 @@
+A stagin area é um arquivo, geralmente contido no diretório Git, que armazena informações sobre o que será incluído no seu próximo commit. Seu nome técnico na linguagem Git é “índice” ou "index", mas a frase “área de teste” ou "stagin area" funciona igualmente bem.

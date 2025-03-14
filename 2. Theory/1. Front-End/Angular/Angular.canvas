@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Angular","id":"84258142d4e84ff2","x":-242,"y":130,"width":163,"height":80,"color":"1"},
+		{"type":"text","text":"#### Angular utiliza TypeScript como sua linguagem principal. O código Angular é escrito em TypeScript.","id":"0d03d7f2db24b238","x":-79,"y":-110,"width":395,"height":140,"color":"6"},
+		{"type":"text","text":"\n Angular utiliza ***TypeScript*** como sua linguagem principal. O código Angular é escrito em ***TypeScript***.\n","id":"b7b1211298f58272","x":-904,"y":43,"width":250,"height":174,"color":"1"},
+		{"type":"text","text":"  Muitos dos padrões e práticas recomendadas que envolvem serviços, injeção de dependências e organização de código são específicos do ecossistema do Angular.","id":"65d5713232b21f41","x":-904,"y":-177,"width":250,"height":220,"color":"1"},
+		{"type":"text","text":" Angular é um [[Framework]] de desenvolvimento front-end para a construção de aplicativos web robustos e dinâmicos.","id":"394b8486ff297d8e","x":-904,"y":212,"width":250,"height":208,"color":"1"},
+		{"type":"text","text":"Serviços","id":"8b3b0498d1779063","x":-1480,"y":-427,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"Organização de código","id":"dfb60bbf96a2d451","x":-1437,"y":-267,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"Injeção de dependências","id":"31f9fc5a669a4320","x":-1377,"y":-640,"width":250,"height":60,"color":"#ff0000"}
+	],
+	"edges":[
+		{"id":"058d11358bf8181e","fromNode":"84258142d4e84ff2","fromSide":"top","toNode":"0d03d7f2db24b238","toSide":"bottom"},
+		{"id":"e0b9578bbea6bdab","fromNode":"84258142d4e84ff2","fromSide":"left","toNode":"b7b1211298f58272","toSide":"right"},
+		{"id":"422ea066a755e2ab","fromNode":"84258142d4e84ff2","fromSide":"left","toNode":"65d5713232b21f41","toSide":"right"},
+		{"id":"9a514913b95e52b3","fromNode":"84258142d4e84ff2","fromSide":"left","toNode":"394b8486ff297d8e","toSide":"right"},
+		{"id":"d9c7d77a49935b8a","fromNode":"65d5713232b21f41","fromSide":"left","toNode":"31f9fc5a669a4320","toSide":"right"},
+		{"id":"4f62c74e264a534b","fromNode":"65d5713232b21f41","fromSide":"left","toNode":"8b3b0498d1779063","toSide":"right"},
+		{"id":"f839b40f4bb6280b","fromNode":"65d5713232b21f41","fromSide":"left","toNode":"dfb60bbf96a2d451","toSide":"right"}
+	]
+}

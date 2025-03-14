@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"a4b320c6d3ff74e7","x":-700,"y":360,"width":1400,"height":1120,"type":"group","label":"Aprender"},
+		{"id":"929a90b7877de89f","type":"group","x":-541,"y":440,"width":881,"height":246,"color":"4","label":"Lógica de Programação, Estruturas de Controle, Estrutura de Dados e POO"},
+		{"id":"6edb822839f6b7af","x":71,"y":784,"width":500,"height":272,"color":"2","type":"group","label":"Entender um Diagrama de Classes"},
+		{"id":"84a711a4f0558049","x":71,"y":1164,"width":589,"height":184,"color":"1","type":"group","label":"Padrões de Projeto"},
+		{"id":"3c40afa9432c9c3e","type":"group","x":-541,"y":784,"width":577,"height":129,"color":"3","label":"Aprender alguns Frameworks"},
+		{"id":"a544ccc8e76f2223","type":"text","text":"JR","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"d3b3d153ddf2cad2","type":"text","text":"### Definir o que você quer dentro da TI","x":-213,"y":140,"width":427,"height":60},
+		{"id":"a8f41c492e922bc9","type":"text","text":"estrutura de dados como **vetores, matrizes, listas, pilhas, filas,** etc.,","x":-212,"y":469,"width":234,"height":86},
+		{"id":"e6b23ee91fa40fac","x":91,"y":1184,"width":250,"height":60,"type":"text","text":"**MVC** - Model, View e Controller"},
+		{"id":"15946c67d426e571","x":390,"y":1184,"width":250,"height":114,"type":"text","text":"padrão de projeto (Design Patterns) vs padrão de arquitetura"},
+		{"id":"56736131c6c831fa","x":91,"y":1268,"width":250,"height":60,"type":"text","text":"**Factory** e o **Observer**"},
+		{"id":"ef39d4575d9664ec","x":91,"y":814,"width":250,"height":60,"type":"text","text":"UML"},
+		{"id":"9d007d6556ed0da3","x":91,"y":895,"width":250,"height":60,"type":"text","text":"**entender um Diagrama de Classes**"},
+		{"id":"2ec2b0fedcceda13","x":91,"y":976,"width":250,"height":60,"type":"text","text":"**Diagrama Entidade Relacionamento (DER).**"},
+		{"id":"d423249f2c253253","type":"text","text":"Aprender seus principais frameworks","x":-234,"y":814,"width":250,"height":60,"color":"3"},
+		{"id":"b70d77cf516fdc34","type":"text","text":"Dominar uma linguagem","x":-521,"y":814,"width":250,"height":60,"color":"3"},
+		{"id":"a06f2511b786864e","type":"text","text":"**for, while, do while, if else, switch, break, continue, try catch, finally, etc.**","x":-521,"y":460,"width":250,"height":116},
+		{"id":"c722ff4e6e89198f","type":"text","text":"POO - **classes, objetos, métodos, construtores, herança e composição, encapsulamento, modificadores de acesso, sobrecarga, sobrescrita, etc.**","x":70,"y":460,"width":250,"height":206},
+		{"id":"be7f41e949ab9825","type":"text","text":"### Saber SQL","x":-521,"y":976,"width":250,"height":50,"color":"4"},
+		{"id":"62f625cd29806b28","type":"text","text":"### Ferramenta de Versionamento","x":-247,"y":976,"width":277,"height":69,"color":"4"},
+		{"id":"c005860279b76551","x":-521,"y":1080,"width":250,"height":60,"color":"1","type":"text","text":"### Portfólio"}
+	],
+	"edges":[
+		{"id":"f9adf0971bc1ac9b","fromNode":"a544ccc8e76f2223","fromSide":"bottom","toNode":"d3b3d153ddf2cad2","toSide":"top"},
+		{"id":"02ad749fd4c22196","fromNode":"d3b3d153ddf2cad2","fromSide":"bottom","toNode":"a4b320c6d3ff74e7","toSide":"top"}
+	]
+}

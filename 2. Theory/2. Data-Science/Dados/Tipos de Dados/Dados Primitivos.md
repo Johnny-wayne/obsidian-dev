@@ -1,0 +1,1 @@
+Os **Dados Primitivos** correspondem a *dados mais simples ou escalares* e serão abordados em detalhe no que segue, enquanto os tipos de [[Dados de Referência]] consistem em [[Arrays]], [[Classes]] e [[Interfaces]].

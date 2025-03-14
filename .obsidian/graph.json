@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"2. Theory/0. Back-End/0. C-Sharp\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3289826
+      }
+    },
+    {
+      "query": "path:\"2. Theory/2. Data-Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 710399
+      }
+    },
+    {
+      "query": "path:\"2. Theory/1. Front-End/JavaScript\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16698113
+      }
+    },
+    {
+      "query": "path:\"2. Theory/0. Back-End/1. NodeJS\" path:\"2. Theory/0. Back-End/1. NodeJs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"2. Theory/0. Back-End/2. Python\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12147465
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.458419958419958,
+  "repelStrength": 9.75051975051975,
+  "linkStrength": 1,
+  "linkDistance": 228,
+  "scale": 0.18462326225858175,
+  "close": true
+}

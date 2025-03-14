@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"##  Typescript","id":"529fd84e1f9831b0","x":-691,"y":80,"width":250,"height":58,"color":"5"},
+		{"type":"text","text":"##### TypeScript oferece:\n- Maior segurança\n- Facilita a depuração \n- Melhora a qualidade do código.","id":"f0691f31881491f4","x":-311,"y":-340,"width":320,"height":208,"color":"5"},
+		{"type":"text","text":"Os benefícios do TypeScript são aplicáveis não apenas ao Angular, mas a qualquer projeto JavaScript.","id":"44ea58bd109feda5","x":-281,"y":220,"width":250,"height":120,"color":"5"},
+		{"type":"text","text":"TypeScript é uma linguagem de programação que estende o JavaScript, adicionando recursos de tipagem estática, interfaces, enumerações e outras funcionalidades.","id":"fd4d27527a2cfdc6","x":-241,"y":-87,"width":250,"height":207,"color":"5"},
+		{"type":"text","text":"Tipagem estática","id":"c59416ec3506d92a","x":219,"y":-190,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Interfaces","id":"afe562c92b47ab83","x":261,"y":-43,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Enumeração","id":"90f76f09998cf737","x":219,"y":90,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"f79818b5a3b3cf8f","fromNode":"529fd84e1f9831b0","fromSide":"right","toNode":"fd4d27527a2cfdc6","toSide":"left"},
+		{"id":"341c4235bb440b72","fromNode":"529fd84e1f9831b0","fromSide":"right","toNode":"44ea58bd109feda5","toSide":"left"},
+		{"id":"1b9f2c033a743676","fromNode":"529fd84e1f9831b0","fromSide":"right","toNode":"f0691f31881491f4","toSide":"left"},
+		{"id":"32167414fb8ed724","fromNode":"fd4d27527a2cfdc6","fromSide":"right","toNode":"c59416ec3506d92a","toSide":"left"},
+		{"id":"edb9e0fb10c14826","fromNode":"fd4d27527a2cfdc6","fromSide":"right","toNode":"afe562c92b47ab83","toSide":"left"},
+		{"id":"5a3ddd54a1251c0b","fromNode":"fd4d27527a2cfdc6","fromSide":"right","toNode":"90f76f09998cf737","toSide":"left"}
+	]
+}
